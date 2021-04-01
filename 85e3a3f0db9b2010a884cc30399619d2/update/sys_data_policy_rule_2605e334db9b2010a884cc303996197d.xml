@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>item</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 17:20:57</sys_created_on>
+        <sys_data_policy display_value="Sets the Item field to mandatory">6205e334db9b2010a884cc303996197b</sys_data_policy>
+        <sys_id>2605e334db9b2010a884cc303996197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Best Shopping List" source="x_292499_best_shop">85e3a3f0db9b2010a884cc30399619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Best Shopping List">85e3a3f0db9b2010a884cc30399619d2</sys_scope>
+        <sys_update_name>sys_data_policy_rule_2605e334db9b2010a884cc303996197d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 17:20:57</sys_updated_on>
+        <table>x_292499_best_shop_best_shopping_item</table>
+    </sys_data_policy_rule>
+</record_update>
